@@ -3,4 +3,4 @@ A website made during Angela Yu course: https://www.udemy.com/course/the-complet
 
 Website uses Bootstrap framework and plain html and css.
 
-Live:
+Live: https://broberts98.github.io/tindog/
